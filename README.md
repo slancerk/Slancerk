@@ -1,4 +1,4 @@
-## <p align='center'>Hey, 👋  <p/>
+## <p align='center'>Hey, I'm Souvik  <p/>
 
 
 <p align='center'>
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+ 
 <a href="https://www.linkedin.com/in/souvik-paul-653a291b9/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
