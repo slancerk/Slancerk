@@ -2,7 +2,7 @@
 
 
 <p align='center'>
-<a href="https://git.io/typing-svg" align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF700&center=true&vCenter=true&width=435&lines=DEVOPS+ENGINEER;FREELANCER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D6EFD&center=true&vCenter=true&width=435&lines=DEVOPS+ENGINEER;AWS+SOLUTION+ARCHITECT;TERRAFORM+ASSOCIATE" alt="Typing SVG" /></a>
 </p>
 
 <p align='center'>I am a B.Tech graduate in Computer Science and Engineering with hands-on experience as a DevOps engineer. I am certified as an AWS Solutions Architect and also hold a Terraform certification. I specialize in cloud infrastructure, automation, and deployment pipelines. My skill set includes managing scalable applications on AWS and optimizing DevOps processes, optimising security and monitoring. Currently working as a Devops Engineer @ToolJet </p>
