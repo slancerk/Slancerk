@@ -8,7 +8,7 @@
 <p align='center'>I am a B.Tech graduate in Computer Science and Engineering with hands-on experience as a DevOps engineer. I am certified as an AWS Solutions Architect and also hold a Terraform certification. I specialize in cloud infrastructure, automation, and deployment pipelines. My skill set includes managing scalable applications on AWS and optimizing DevOps processes, optimising security and monitoring. Currently working as a Devops Engineer @ToolJet </p>
 <p align='center'>
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Fr_KLvOIFIXioOFGQNmglQ.png" width="100" title="AWS Certified Solutions Architect - Associate"/>
-  <img src="https://images.credly.com/size/680x680/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" width="100" title="HashiCorp Certified: Terraform Associate"/>
+  <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="100" title="HashiCorp Certified: Terraform Associate"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
