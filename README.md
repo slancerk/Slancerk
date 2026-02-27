@@ -34,5 +34,70 @@
 
 <br />
 <br />
+
+# Current Project:
+## 📱 InvoicePro — Smart Invoice Manager
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
+**A production-grade invoice management app built for Indian freelancers & small businesses.**
+
+*GST-compliant invoicing • PDF generation • Cloud backup • Subscription billing*
+
+---
+
+</div>
+
+### ✦ What It Does
+
+> Generate professional GST invoices, track payments, manage clients — all from your phone.
+> Built with a dark, modern UI and optimized for real-world freelancer workflows.
+
+### ✦ Key Features
+
+| Feature | Details |
+|:--------|:--------|
+| 🧾 **Smart Invoicing** | Auto-numbered invoices with GST (CGST/SGST/IGST), discounts & multi-currency (₹ / $) |
+| 📄 **PDF Templates** | 3 professionally designed templates — Minimal, Modern & Classic |
+| 🔁 **Recurring Invoices** | Weekly, monthly, quarterly & yearly auto-generation |
+| 💰 **Payment Tracking** | Partial payments, balance due, auto status updates (Draft → Sent → Paid) |
+| ☁️ **Google Drive Backup** | One-tap cloud backup & restore with Google Sign-In |
+| 📊 **Dashboard Analytics** | Revenue insights with all-time / monthly toggle, overdue tracking |
+| 📱 **UPI QR Codes** | Auto-generated UPI payment QR on invoices for instant payments |
+| 🔗 **WhatsApp Sharing** | Share invoices directly via WhatsApp with one tap |
+| 💎 **In-App Subscriptions** | Freemium model with Google Play Billing (INR & USD pricing) |
+
+### ✦ Tech Stack
+
+Frontend       Flutter 3.x + Dart • Custom dark theme • flutter_animate
+Database       SQLite (sqflite) • SharedPreferences
+Cloud          Google Sign-In • Google Drive API (googleapis)
+Billing        in_app_purchase (Google Play Billing)
+PDF Engine     pdf + printing packages • Custom painters
+Architecture   Singleton services • Clean separation of concerns
+
+
+
+### ✦ Architecture Highlights
+
+- **Singleton service layer** — `DatabaseService`, `BackupService`, `SubscriptionService`, `ProfileService`
+- **WAL-safe backup** — SQLite WAL checkpoint before cloud backup to prevent data loss
+- **Resilient restore** — Full DB + SharedPreferences restore with automatic invoice count sync
+- **Reactive IAP** — Purchase stream with `Completer` pattern for reliable subscription activation
+- **Smart navigation** — Post-restore routing based on actual data state, not stale flags
+
+<div align="center">
+
+---
+
+*Made with ❤️ in India*
+
+</div>
   
 
